@@ -1,0 +1,28 @@
+input{
+    width: 150px;
+    height: 100px;
+    font-size: 75px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: #000;
+    color: #fff;
+    border-style: none;
+}
+#display{
+    width: 100%;
+}
+#minus{
+    background-color:brown;
+}
+#plus{
+    background-color:blueviolet;
+}
+#multiply{
+    background-color: cadetblue;
+}
+#divide{
+    background-color:coral;
+}
+#clear{
+    background-color: darkgoldenrod;
+}
